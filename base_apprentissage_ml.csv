@@ -1,0 +1,901 @@
+﻿date,reference,designation,prix_unitaire,categorie,quantite_entree,stock_actuel,seuil_d_alerte,quantite_vendue
+2025-01-01,MUS-0094,Piano numerique 094,1456997.89,Instrument de musique,56,355,13,37
+2025-01-02,ELM-0071,Lave-linge 071,272779.92,Electromenager,150,105,15,59
+2025-01-02,SMP-0065,Smartphone Ultra 065,307551.03,Smartphone,195,482,8,1
+2025-01-02,SMP-0047,Smartphone Lite 047,328380.93,Smartphone,29,0,18,17
+2025-01-02,MUS-0009,Clavier arrangeur 009,2081845.57,Instrument de musique,389,493,18,23
+2025-01-05,ELM-0059,Climatiseur 059,1127443.73,Electromenager,48,168,13,8
+2025-01-05,MUS-0074,Batterie electronique 074,1085054.1,Instrument de musique,81,335,20,78
+2025-01-06,MUS-0079,Violon etude 079,1999205.74,Instrument de musique,221,383,13,18
+2025-01-06,ELM-0008,Congelateur 008,1174564.09,Electromenager,86,111,22,18
+2025-01-06,GEN-0061,Groupe 12kVA 061,1549320.49,Groupe electrogene,0,51,13,51
+2025-01-07,GEN-0008,Groupe 12kVA 008,4121929.11,Groupe electrogene,136,31,4,16
+2025-01-08,ELM-0087,Aspirateur 087,1189034.32,Electromenager,72,137,23,52
+2025-01-08,MUS-0121,Clavier arrangeur 121,1247424.33,Instrument de musique,0,106,12,76
+2025-01-09,ELM-0066,Micro-ondes 066,370114.38,Electromenager,138,387,13,16
+2025-01-09,SMP-0114,Smartphone Prime 114,694392.71,Smartphone,0,155,7,34
+2025-01-09,MUS-0124,Clavier arrangeur 124,1336792.62,Instrument de musique,99,236,9,32
+2025-01-09,ELM-0123,Mixeur 123,782149.28,Electromenager,0,150,18,5
+2025-01-11,SMP-0123,Smartphone Ultra 123,1003631.37,Smartphone,201,307,6,24
+2025-01-12,ELM-0010,Mixeur 010,239696.32,Electromenager,43,101,9,27
+2025-01-12,GEN-0003,Groupe 5kVA 003,3624855.27,Groupe electrogene,0,108,22,41
+2025-01-12,ELM-0123,Mixeur 123,760485.46,Electromenager,0,150,18,12
+2025-01-12,MUS-0093,Piano numerique 093,499372.71,Instrument de musique,82,52,12,68
+2025-01-13,MUS-0080,Piano numerique 080,861539.71,Instrument de musique,44,233,24,25
+2025-01-13,ELM-0072,Micro-ondes 072,512299.3,Electromenager,89,190,13,43
+2025-01-13,GEN-0040,Groupe 2kVA 040,3789050.03,Groupe electrogene,177,292,22,57
+2025-01-14,GEN-0066,Groupe silencieux 6kVA 066,2065567.72,Groupe electrogene,171,297,9,23
+2025-01-14,GEN-0095,Groupe 5kVA 095,1972877.93,Groupe electrogene,0,157,25,59
+2025-01-14,ELM-0015,Climatiseur 015,566386.46,Electromenager,20,166,6,57
+2025-01-16,ELM-0125,Refrigerateur 125,726565.22,Electromenager,47,0,21,8
+2025-01-18,ELM-0045,Fer a repasser 045,668066.46,Electromenager,131,169,18,29
+2025-01-19,GEN-0018,Groupe 5kVA 018,1510594.81,Groupe electrogene,0,245,9,15
+2025-01-19,GEN-0060,Groupe 12kVA 060,2534130.73,Groupe electrogene,153,125,18,51
+2025-01-20,MUS-0017,Batterie electronique 017,1646846.04,Instrument de musique,111,374,12,5
+2025-01-20,MUS-0078,Saxophone alto 078,1234168.48,Instrument de musique,0,304,19,45
+2025-01-20,SMP-0082,Smartphone Prime 082,495935.09,Smartphone,116,98,18,33
+2025-01-20,GEN-0078,Groupe 12kVA 078,2726083.75,Groupe electrogene,0,106,11,17
+2025-01-21,GEN-0047,Groupe 12kVA 047,3784878.03,Groupe electrogene,153,436,6,3
+2025-01-22,MUS-0114,Batterie electronique 114,967712.86,Instrument de musique,0,247,10,4
+2025-01-22,SMP-0057,Smartphone Lite 057,1099353.8,Smartphone,0,279,9,3
+2025-01-23,ELM-0098,Lave-linge 098,1104508.08,Electromenager,102,0,21,62
+2025-01-24,MUS-0096,Piano numerique 096,1066973.09,Instrument de musique,45,313,9,51
+2025-01-24,GEN-0014,Groupe 12kVA 014,3176335.8,Groupe electrogene,202,172,20,72
+2025-01-25,GEN-0025,Groupe 5kVA 025,2636697.13,Groupe electrogene,106,105,9,72
+2025-01-25,SMP-0014,Smartphone Alpha 014,1353065.73,Smartphone,25,73,6,52
+2025-01-25,ELM-0048,Lave-linge 048,420955.74,Electromenager,130,160,21,63
+2025-01-25,MUS-0083,Batterie electronique 083,451484.07,Instrument de musique,123,73,17,48
+2025-01-25,SMP-0126,Smartphone Ultra 126,421866.84,Smartphone,0,306,21,9
+2025-01-27,MUS-0062,Clavier arrangeur 062,142531.29,Instrument de musique,0,0,7,15
+2025-01-27,ELM-0079,Mixeur 079,253964.88,Electromenager,74,0,25,77
+2025-01-27,MUS-0053,Piano numerique 053,1324649.89,Instrument de musique,218,158,7,59
+2025-01-28,SMP-0026,Smartphone Nova 026,299848.4,Smartphone,218,444,23,50
+2025-01-28,ELM-0057,Lave-linge 057,686263.52,Electromenager,34,2,21,61
+2025-01-28,MUS-0125,Saxophone alto 125,1810097.64,Instrument de musique,67,240,24,51
+2025-01-28,MUS-0121,Clavier arrangeur 121,1318159.89,Instrument de musique,0,106,12,1
+2025-01-29,SMP-0056,Smartphone Prime 056,1482510.43,Smartphone,71,174,19,67
+2025-01-29,SMP-0073,Smartphone Nova 073,350633.66,Smartphone,113,265,22,36
+2025-01-29,GEN-0037,Groupe silencieux 6kVA 037,3775750.6,Groupe electrogene,82,43,8,77
+2025-01-30,GEN-0029,Groupe 2kVA 029,1757728.88,Groupe electrogene,98,0,12,14
+2025-01-30,SMP-0115,Smartphone Prime 115,1687519.18,Smartphone,0,0,17,62
+2025-01-30,SMP-0067,Smartphone Ultra 067,1583639.1,Smartphone,7,0,17,53
+2025-01-31,GEN-0064,Groupe 5kVA 064,598993.74,Groupe electrogene,140,393,24,35
+2025-01-31,GEN-0043,Groupe 8kVA 043,3987335.68,Groupe electrogene,42,47,25,35
+2025-02-01,ELM-0122,Mixeur 122,550743.45,Electromenager,36,0,5,62
+2025-02-02,ELM-0026,Climatiseur 026,486298.2,Electromenager,16,92,13,38
+2025-02-02,GEN-0072,Groupe 12kVA 072,2067932.5,Groupe electrogene,38,47,11,61
+2025-02-03,SMP-0003,Smartphone Nova 003,1023332.53,Smartphone,26,90,7,58
+2025-02-03,MUS-0122,Batterie electronique 122,2104179.78,Instrument de musique,279,456,3,34
+2025-02-04,GEN-0092,Groupe 2kVA 092,2934210.9,Groupe electrogene,89,39,13,65
+2025-02-05,MUS-0048,Saxophone alto 048,1226452.96,Instrument de musique,22,306,18,39
+2025-02-05,MUS-0025,Guitare acoustique 025,1186186.15,Instrument de musique,173,306,17,38
+2025-02-05,SMP-0031,Smartphone Alpha 031,1244453.33,Smartphone,171,128,19,41
+2025-02-06,MUS-0001,Saxophone alto 001,1490835.94,Instrument de musique,265,226,9,1
+2025-02-06,SMP-0085,Smartphone Ultra 085,593329.91,Smartphone,0,251,24,43
+2025-02-06,SMP-0039,Smartphone Alpha 039,1307090.28,Smartphone,0,170,25,1
+2025-02-06,GEN-0057,Groupe 8kVA 057,2928508.05,Groupe electrogene,31,84,8,59
+2025-02-07,SMP-0114,Smartphone Prime 114,774748.07,Smartphone,0,155,7,80
+2025-02-07,ELM-0034,Climatiseur 034,639357.92,Electromenager,0,153,21,30
+2025-02-07,MUS-0076,Guitare acoustique 076,1664451.72,Instrument de musique,72,131,13,43
+2025-02-08,SMP-0113,Smartphone Alpha 113,1310449.28,Smartphone,137,288,19,32
+2025-02-10,SMP-0097,Smartphone Prime 097,344237.78,Smartphone,190,456,16,3
+2025-02-10,ELM-0061,Lave-linge 061,846998.72,Electromenager,156,103,13,63
+2025-02-10,SMP-0032,Smartphone Lite 032,1045306.4,Smartphone,17,109,25,44
+2025-02-11,ELM-0033,Lave-linge 033,718529.02,Electromenager,203,122,7,17
+2025-02-11,ELM-0003,Refrigerateur 003,488005.72,Electromenager,128,226,16,8
+2025-02-11,ELM-0060,Fer a repasser 060,1194709.53,Electromenager,0,223,11,22
+2025-02-12,GEN-0096,Groupe 2kVA 096,2373916.69,Groupe electrogene,91,266,15,45
+2025-02-12,ELM-0070,Micro-ondes 070,755071.09,Electromenager,214,225,17,44
+2025-02-13,MUS-0126,Violon etude 126,1499525.69,Instrument de musique,11,25,8,31
+2025-02-13,GEN-0074,Groupe silencieux 6kVA 074,3139642.37,Groupe electrogene,275,172,5,31
+2025-02-13,SMP-0092,Smartphone Alpha 092,1428837.02,Smartphone,93,252,23,53
+2025-02-14,ELM-0089,Mixeur 089,939924.86,Electromenager,0,92,10,3
+2025-02-14,SMP-0098,Smartphone Edge 098,390235.49,Smartphone,169,444,16,37
+2025-02-15,GEN-0067,Groupe 12kVA 067,1301597.26,Groupe electrogene,0,83,10,39
+2025-02-15,SMP-0067,Smartphone Ultra 067,1558901.35,Smartphone,7,0,17,61
+2025-02-15,GEN-0070,Groupe 5kVA 070,3572577.35,Groupe electrogene,30,13,24,37
+2025-02-15,GEN-0109,Groupe silencieux 6kVA 109,2874285.91,Groupe electrogene,16,18,19,25
+2025-02-15,SMP-0071,Smartphone Ultra 071,882495.25,Smartphone,82,115,19,13
+2025-02-15,ELM-0116,Fer a repasser 116,366565.68,Electromenager,69,287,24,8
+2025-02-16,MUS-0103,Batterie electronique 103,716819.92,Instrument de musique,242,245,7,4
+2025-02-16,ELM-0102,Congelateur 102,489157.04,Electromenager,46,140,11,22
+2025-02-18,GEN-0077,Groupe 8kVA 077,538413.76,Groupe electrogene,37,139,23,52
+2025-02-18,GEN-0044,Groupe 12kVA 044,3197426.32,Groupe electrogene,0,139,19,39
+2025-02-19,SMP-0115,Smartphone Prime 115,1478484.63,Smartphone,0,0,17,48
+2025-02-19,ELM-0029,Mixeur 029,297478.78,Electromenager,179,387,5,10
+2025-02-21,MUS-0046,Saxophone alto 046,1067053.23,Instrument de musique,318,434,18,24
+2025-02-21,MUS-0019,Saxophone alto 019,1436792.38,Instrument de musique,0,94,8,45
+2025-02-22,ELM-0098,Lave-linge 098,1152419.84,Electromenager,102,0,21,47
+2025-02-23,ELM-0015,Climatiseur 015,491495.52,Electromenager,20,166,6,16
+2025-02-23,SMP-0027,Smartphone Prime 027,1396784.09,Smartphone,63,389,19,41
+2025-02-23,SMP-0104,Smartphone Edge 104,1397405.53,Smartphone,110,181,3,58
+2025-02-24,SMP-0108,Smartphone Lite 108,1629114.48,Smartphone,0,95,21,80
+2025-02-27,MUS-0098,Guitare acoustique 098,245640.08,Instrument de musique,122,206,22,65
+2025-02-27,ELM-0091,Refrigerateur 091,332107.22,Electromenager,253,264,22,18
+2025-02-27,ELM-0086,Climatiseur 086,342670.55,Electromenager,63,282,25,40
+2025-02-27,SMP-0028,Smartphone Prime 028,1355631.1,Smartphone,0,4,9,14
+2025-03-01,SMP-0126,Smartphone Ultra 126,458367.67,Smartphone,0,306,21,29
+2025-03-01,SMP-0029,Smartphone Lite 029,854499.09,Smartphone,280,473,18,12
+2025-03-02,MUS-0015,Clavier arrangeur 015,1253370.68,Instrument de musique,16,158,12,38
+2025-03-02,GEN-0029,Groupe 2kVA 029,1789102.06,Groupe electrogene,98,0,12,62
+2025-03-02,SMP-0057,Smartphone Lite 057,1140412.76,Smartphone,0,279,9,20
+2025-03-02,MUS-0017,Batterie electronique 017,1680965.17,Instrument de musique,111,374,12,72
+2025-03-02,ELM-0019,Fer a repasser 019,1218307.78,Electromenager,157,242,19,63
+2025-03-03,GEN-0104,Groupe silencieux 6kVA 104,3435062.67,Groupe electrogene,0,177,25,29
+2025-03-03,GEN-0045,Groupe silencieux 6kVA 045,1187179.78,Groupe electrogene,43,0,12,6
+2025-03-05,ELM-0024,Fer a repasser 024,694342.39,Electromenager,2,33,11,74
+2025-03-07,MUS-0009,Clavier arrangeur 009,1999610.16,Instrument de musique,389,493,18,7
+2025-03-07,GEN-0081,Groupe 2kVA 081,3547704.77,Groupe electrogene,93,76,7,48
+2025-03-07,MUS-0058,Saxophone alto 058,1530378.32,Instrument de musique,8,0,8,2
+2025-03-08,MUS-0008,Piano numerique 008,413246.13,Instrument de musique,176,23,13,50
+2025-03-08,SMP-0023,Smartphone Ultra 023,1248994.43,Smartphone,41,97,24,59
+2025-03-09,SMP-0058,Smartphone Edge 058,1665166.13,Smartphone,138,233,17,26
+2025-03-09,GEN-0046,Groupe 5kVA 046,1042888.8,Groupe electrogene,108,179,22,35
+2025-03-12,GEN-0066,Groupe silencieux 6kVA 066,2018043.42,Groupe electrogene,171,297,9,45
+2025-03-12,MUS-0097,Piano numerique 097,523776.93,Instrument de musique,88,184,5,27
+2025-03-14,GEN-0046,Groupe 5kVA 046,984260.61,Groupe electrogene,108,179,22,47
+2025-03-14,ELM-0116,Fer a repasser 116,339318.82,Electromenager,69,287,24,10
+2025-03-14,MUS-0013,Clavier arrangeur 013,504973.23,Instrument de musique,40,69,9,45
+2025-03-15,GEN-0004,Groupe 2kVA 004,3143463.04,Groupe electrogene,68,157,24,27
+2025-03-15,ELM-0123,Mixeur 123,798056.83,Electromenager,0,150,18,28
+2025-03-15,ELM-0093,Climatiseur 093,907430.22,Electromenager,38,88,4,65
+2025-03-16,GEN-0037,Groupe silencieux 6kVA 037,3454773.87,Groupe electrogene,82,43,8,29
+2025-03-18,ELM-0122,Mixeur 122,629181.49,Electromenager,36,0,5,71
+2025-03-18,MUS-0103,Batterie electronique 103,659537.5,Instrument de musique,242,245,7,71
+2025-03-19,GEN-0029,Groupe 2kVA 029,1898217.37,Groupe electrogene,98,0,12,60
+2025-03-19,ELM-0023,Climatiseur 023,804741.17,Electromenager,86,298,20,66
+2025-03-19,MUS-0108,Guitare acoustique 108,506671.5,Instrument de musique,2,301,13,24
+2025-03-20,GEN-0007,Groupe 8kVA 007,3474356.72,Groupe electrogene,0,166,21,25
+2025-03-20,SMP-0093,Smartphone Alpha 093,1193891.02,Smartphone,13,253,24,67
+2025-03-21,GEN-0096,Groupe 2kVA 096,2140196.01,Groupe electrogene,91,266,15,28
+2025-03-21,SMP-0101,Smartphone Edge 101,778673.98,Smartphone,98,320,21,32
+2025-03-21,ELM-0122,Mixeur 122,549426.64,Electromenager,36,0,5,57
+2025-03-22,GEN-0017,Groupe 5kVA 017,2705340.36,Groupe electrogene,168,164,24,63
+2025-03-22,ELM-0074,Aspirateur 074,522373.8,Electromenager,30,241,19,45
+2025-03-23,GEN-0037,Groupe silencieux 6kVA 037,3454058.99,Groupe electrogene,82,43,8,44
+2025-03-23,GEN-0034,Groupe silencieux 6kVA 034,2165893.14,Groupe electrogene,203,57,23,70
+2025-03-23,MUS-0089,Guitare acoustique 089,869988.73,Instrument de musique,0,219,6,13
+2025-03-23,ELM-0053,Fer a repasser 053,197935.73,Electromenager,175,341,21,33
+2025-03-25,ELM-0055,Lave-linge 055,1034520.13,Electromenager,88,325,11,17
+2025-03-25,GEN-0010,Groupe silencieux 6kVA 010,2350126.09,Groupe electrogene,0,301,10,24
+2025-03-25,ELM-0041,Climatiseur 041,717225.05,Electromenager,96,294,15,50
+2025-03-25,GEN-0014,Groupe 12kVA 014,3305433.12,Groupe electrogene,202,172,20,23
+2025-03-26,SMP-0107,Smartphone Nova 107,1226120.93,Smartphone,191,173,10,30
+2025-03-27,ELM-0059,Climatiseur 059,1019519.69,Electromenager,48,168,13,9
+2025-03-27,MUS-0127,Batterie electronique 127,153808.2,Instrument de musique,110,222,15,76
+2025-03-28,GEN-0004,Groupe 2kVA 004,3332963.55,Groupe electrogene,68,157,24,13
+2025-03-28,SMP-0102,Smartphone Prime 102,1275950.38,Smartphone,0,154,14,18
+2025-03-29,MUS-0003,Saxophone alto 003,188742.82,Instrument de musique,0,311,17,8
+2025-03-30,ELM-0021,Climatiseur 021,1286057.48,Electromenager,115,44,8,48
+2025-03-30,SMP-0006,Smartphone Lite 006,432953.94,Smartphone,80,158,10,73
+2025-03-30,ELM-0037,Fer a repasser 037,423612.29,Electromenager,102,68,12,76
+2025-03-31,SMP-0018,Smartphone Alpha 018,351668.17,Smartphone,0,109,17,45
+2025-03-31,GEN-0061,Groupe 12kVA 061,1686009.78,Groupe electrogene,0,51,13,26
+2025-03-31,ELM-0037,Fer a repasser 037,442114.23,Electromenager,102,68,12,24
+2025-04-01,SMP-0120,Smartphone Nova 120,771460.86,Smartphone,174,249,25,7
+2025-04-01,SMP-0067,Smartphone Ultra 067,1430166.61,Smartphone,7,0,17,63
+2025-04-01,SMP-0089,Smartphone Ultra 089,456585.44,Smartphone,136,147,9,24
+2025-04-01,GEN-0099,Groupe 12kVA 099,2034465.98,Groupe electrogene,311,439,5,35
+2025-04-01,MUS-0041,Piano numerique 041,431250.7,Instrument de musique,0,228,22,15
+2025-04-02,MUS-0095,Clavier arrangeur 095,786762.46,Instrument de musique,51,136,16,60
+2025-04-03,GEN-0048,Groupe 8kVA 048,1161605.34,Groupe electrogene,120,431,22,47
+2025-04-03,MUS-0095,Clavier arrangeur 095,819025.69,Instrument de musique,51,136,16,63
+2025-04-04,ELM-0122,Mixeur 122,576656.46,Electromenager,36,0,5,72
+2025-04-05,ELM-0075,Refrigerateur 075,901407.5,Electromenager,59,225,9,57
+2025-04-06,ELM-0044,Mixeur 044,1117133.57,Electromenager,178,229,24,41
+2025-04-06,MUS-0069,Violon etude 069,606885.67,Instrument de musique,269,384,8,35
+2025-04-07,ELM-0078,Micro-ondes 078,731380.57,Electromenager,53,110,19,53
+2025-04-07,GEN-0001,Groupe silencieux 6kVA 001,2179294.62,Groupe electrogene,83,59,20,46
+2025-04-07,GEN-0092,Groupe 2kVA 092,3142946.86,Groupe electrogene,89,39,13,9
+2025-04-07,SMP-0069,Smartphone Lite 069,241212.7,Smartphone,136,350,19,36
+2025-04-08,ELM-0121,Lave-linge 121,81507.83,Electromenager,212,439,14,43
+2025-04-08,GEN-0077,Groupe 8kVA 077,513840.59,Groupe electrogene,37,139,23,9
+2025-04-09,ELM-0119,Aspirateur 119,103435.23,Electromenager,25,101,7,17
+2025-04-10,SMP-0062,Smartphone Alpha 062,379833.96,Smartphone,37,127,23,9
+2025-04-10,ELM-0100,Fer a repasser 100,665803.67,Electromenager,0,0,11,9
+2025-04-11,GEN-0004,Groupe 2kVA 004,3309644.8,Groupe electrogene,68,157,24,13
+2025-04-11,ELM-0057,Lave-linge 057,727329.67,Electromenager,34,2,21,80
+2025-04-12,SMP-0017,Smartphone Nova 017,258233.67,Smartphone,30,299,21,30
+2025-04-12,SMP-0052,Smartphone Ultra 052,1310181.64,Smartphone,103,411,7,19
+2025-04-12,GEN-0085,Groupe 2kVA 085,1591409.3,Groupe electrogene,34,95,8,42
+2025-04-12,SMP-0010,Smartphone Ultra 010,637983.58,Smartphone,111,0,4,66
+2025-04-13,MUS-0015,Clavier arrangeur 015,1121388.78,Instrument de musique,16,158,12,37
+2025-04-13,MUS-0034,Violon etude 034,235955.95,Instrument de musique,24,306,14,5
+2025-04-13,GEN-0086,Groupe 8kVA 086,464937.46,Groupe electrogene,60,0,10,34
+2025-04-15,GEN-0028,Groupe 12kVA 028,3925539.07,Groupe electrogene,102,215,9,36
+2025-04-15,GEN-0036,Groupe silencieux 6kVA 036,3734056.37,Groupe electrogene,75,237,10,60
+2025-04-16,GEN-0022,Groupe 2kVA 022,946602.75,Groupe electrogene,53,346,9,12
+2025-04-16,MUS-0018,Saxophone alto 018,209842.93,Instrument de musique,74,53,9,3
+2025-04-17,MUS-0066,Clavier arrangeur 066,1643208.45,Instrument de musique,368,571,3,14
+2025-04-17,GEN-0044,Groupe 12kVA 044,3537531.46,Groupe electrogene,0,139,19,45
+2025-04-17,GEN-0009,Groupe 5kVA 009,1116892.49,Groupe electrogene,109,257,22,1
+2025-04-18,GEN-0031,Groupe 2kVA 031,1838239.89,Groupe electrogene,84,189,16,45
+2025-04-18,SMP-0046,Smartphone Edge 046,1347845.46,Smartphone,98,185,6,49
+2025-04-19,SMP-0125,Smartphone Prime 125,541944.94,Smartphone,0,0,10,47
+2025-04-19,GEN-0064,Groupe 5kVA 064,606127.47,Groupe electrogene,140,393,24,34
+2025-04-21,SMP-0039,Smartphone Alpha 039,1253455.9,Smartphone,0,170,25,53
+2025-04-21,ELM-0025,Mixeur 025,974393.74,Electromenager,0,0,9,63
+2025-04-22,SMP-0089,Smartphone Ultra 089,505304.46,Smartphone,136,147,9,21
+2025-04-23,GEN-0027,Groupe silencieux 6kVA 027,3287100.59,Groupe electrogene,91,361,12,17
+2025-04-23,ELM-0036,Refrigerateur 036,418259.86,Electromenager,74,227,3,5
+2025-04-25,SMP-0018,Smartphone Alpha 018,347851.34,Smartphone,0,109,17,8
+2025-04-25,GEN-0067,Groupe 12kVA 067,1286182.52,Groupe electrogene,0,83,10,70
+2025-04-26,MUS-0105,Guitare acoustique 105,1959818.62,Instrument de musique,173,307,7,17
+2025-04-26,ELM-0074,Aspirateur 074,534136.84,Electromenager,30,241,19,30
+2025-04-27,SMP-0108,Smartphone Lite 108,1510228.73,Smartphone,0,95,21,58
+2025-04-28,MUS-0058,Saxophone alto 058,1604230.65,Instrument de musique,8,0,8,59
+2025-04-28,ELM-0081,Mixeur 081,1110974.6,Electromenager,194,259,21,32
+2025-04-28,ELM-0033,Lave-linge 033,737983.46,Electromenager,203,122,7,60
+2025-04-29,GEN-0055,Groupe 5kVA 055,1014155.64,Groupe electrogene,107,131,6,5
+2025-04-29,ELM-0109,Micro-ondes 109,227097.09,Electromenager,110,200,7,71
+2025-04-29,GEN-0043,Groupe 8kVA 043,4024535.83,Groupe electrogene,42,47,25,28
+2025-04-30,ELM-0079,Mixeur 079,271907.18,Electromenager,74,0,25,58
+2025-04-30,MUS-0125,Saxophone alto 125,1744943.83,Instrument de musique,67,240,24,69
+2025-04-30,ELM-0117,Aspirateur 117,883979.14,Electromenager,0,229,23,3
+2025-04-30,MUS-0029,Piano numerique 029,1763692.23,Instrument de musique,0,243,25,60
+2025-04-30,GEN-0074,Groupe silencieux 6kVA 074,3109751.79,Groupe electrogene,275,172,5,79
+2025-04-30,SMP-0067,Smartphone Ultra 067,1434772.46,Smartphone,7,0,17,55
+2025-05-01,MUS-0019,Saxophone alto 019,1494282.02,Instrument de musique,0,94,8,63
+2025-05-04,GEN-0060,Groupe 12kVA 060,2842554.02,Groupe electrogene,153,125,18,53
+2025-05-04,GEN-0050,Groupe 12kVA 050,1598661.41,Groupe electrogene,125,206,5,18
+2025-05-04,MUS-0040,Saxophone alto 040,1450537.53,Instrument de musique,21,82,21,44
+2025-05-04,MUS-0115,Clavier arrangeur 115,418713.11,Instrument de musique,218,402,23,49
+2025-05-05,MUS-0021,Clavier arrangeur 021,102771.4,Instrument de musique,0,114,3,27
+2025-05-05,GEN-0052,Groupe 5kVA 052,2748137.49,Groupe electrogene,150,56,14,52
+2025-05-05,ELM-0018,Lave-linge 018,436441.23,Electromenager,75,74,20,15
+2025-05-05,SMP-0014,Smartphone Alpha 014,1242400.9,Smartphone,25,73,6,49
+2025-05-06,GEN-0091,Groupe silencieux 6kVA 091,465912.78,Groupe electrogene,0,51,25,65
+2025-05-06,SMP-0001,Smartphone Edge 001,946362.81,Smartphone,83,231,9,24
+2025-05-06,ELM-0021,Climatiseur 021,1176051.45,Electromenager,115,44,8,80
+2025-05-06,MUS-0059,Clavier arrangeur 059,1100517.78,Instrument de musique,98,391,24,53
+2025-05-06,SMP-0001,Smartphone Edge 001,1038450.09,Smartphone,83,231,9,21
+2025-05-06,GEN-0098,Groupe 5kVA 098,2768393.88,Groupe electrogene,43,0,3,25
+2025-05-07,SMP-0103,Smartphone Ultra 103,1214877.15,Smartphone,0,0,10,79
+2025-05-09,SMP-0108,Smartphone Lite 108,1652031.79,Smartphone,0,95,21,27
+2025-05-09,ELM-0049,Micro-ondes 049,780867.32,Electromenager,174,243,14,7
+2025-05-09,GEN-0080,Groupe 5kVA 080,3409019.27,Groupe electrogene,0,0,11,52
+2025-05-10,MUS-0083,Batterie electronique 083,460400.21,Instrument de musique,123,73,17,13
+2025-05-10,MUS-0113,Saxophone alto 113,922890.52,Instrument de musique,184,105,12,79
+2025-05-10,MUS-0034,Violon etude 034,240007.13,Instrument de musique,24,306,14,53
+2025-05-10,GEN-0026,Groupe 12kVA 026,1789715.94,Groupe electrogene,149,337,21,21
+2025-05-10,SMP-0010,Smartphone Ultra 010,640038.98,Smartphone,111,0,4,43
+2025-05-10,ELM-0034,Climatiseur 034,686585.55,Electromenager,0,153,21,5
+2025-05-11,SMP-0095,Smartphone Ultra 095,1484295.78,Smartphone,73,298,21,74
+2025-05-11,GEN-0023,Groupe 2kVA 023,1305030.65,Groupe electrogene,114,161,15,69
+2025-05-11,ELM-0049,Micro-ondes 049,801973.1,Electromenager,174,243,14,40
+2025-05-11,SMP-0109,Smartphone Ultra 109,1385492.51,Smartphone,283,264,11,64
+2025-05-13,MUS-0094,Piano numerique 094,1564614.22,Instrument de musique,56,355,13,19
+2025-05-13,SMP-0078,Smartphone Ultra 078,1077224.13,Smartphone,61,203,20,71
+2025-05-13,SMP-0089,Smartphone Ultra 089,492431.74,Smartphone,136,147,9,64
+2025-05-13,ELM-0021,Climatiseur 021,1266416.94,Electromenager,115,44,8,56
+2025-05-14,SMP-0007,Smartphone Alpha 007,248521.41,Smartphone,72,84,19,63
+2025-05-14,SMP-0028,Smartphone Prime 028,1557293.83,Smartphone,0,4,9,70
+2025-05-14,GEN-0054,Groupe 5kVA 054,3574456.79,Groupe electrogene,311,492,4,30
+2025-05-14,ELM-0003,Refrigerateur 003,528310.3,Electromenager,128,226,16,26
+2025-05-14,ELM-0115,Aspirateur 115,1162461.02,Electromenager,0,214,22,21
+2025-05-15,MUS-0110,Guitare acoustique 110,1030173.38,Instrument de musique,100,167,22,40
+2025-05-15,ELM-0031,Aspirateur 031,601690.46,Electromenager,226,475,24,42
+2025-05-15,GEN-0023,Groupe 2kVA 023,1305456.23,Groupe electrogene,114,161,15,47
+2025-05-15,ELM-0063,Aspirateur 063,177929.16,Electromenager,116,237,11,10
+2025-05-15,GEN-0030,Groupe 12kVA 030,1853509.77,Groupe electrogene,8,71,13,67
+2025-05-16,MUS-0085,Batterie electronique 085,2017018.26,Instrument de musique,78,31,17,2
+2025-05-16,GEN-0040,Groupe 2kVA 040,3561850.99,Groupe electrogene,177,292,22,20
+2025-05-17,ELM-0127,Lave-linge 127,712418.88,Electromenager,0,305,6,23
+2025-05-17,MUS-0042,Piano numerique 042,1211140.87,Instrument de musique,23,0,22,69
+2025-05-18,SMP-0066,Smartphone Prime 066,459764.72,Smartphone,77,305,20,16
+2025-05-18,ELM-0059,Climatiseur 059,1094194.72,Electromenager,48,168,13,40
+2025-05-18,SMP-0035,Smartphone Lite 035,387764.7,Smartphone,111,19,20,74
+2025-05-19,ELM-0019,Fer a repasser 019,1138795.3,Electromenager,157,242,19,56
+2025-05-19,ELM-0116,Fer a repasser 116,353005.03,Electromenager,69,287,24,18
+2025-05-19,SMP-0033,Smartphone Prime 033,1529761.79,Smartphone,485,629,5,2
+2025-05-19,GEN-0026,Groupe 12kVA 026,1736641.08,Groupe electrogene,149,337,21,62
+2025-05-19,SMP-0053,Smartphone Edge 053,231907.52,Smartphone,0,205,18,10
+2025-05-21,GEN-0011,Groupe silencieux 6kVA 011,3845483.52,Groupe electrogene,36,191,16,71
+2025-05-21,ELM-0093,Climatiseur 093,962552.64,Electromenager,38,88,4,12
+2025-05-22,ELM-0050,Congelateur 050,767865.79,Electromenager,0,22,3,4
+2025-05-22,ELM-0105,Aspirateur 105,809324.7,Electromenager,0,77,20,39
+2025-05-22,SMP-0061,Smartphone Alpha 061,1602092.44,Smartphone,188,296,22,66
+2025-05-23,MUS-0065,Piano numerique 065,1825234.65,Instrument de musique,266,342,6,74
+2025-05-23,SMP-0113,Smartphone Alpha 113,1377181.16,Smartphone,137,288,19,15
+2025-05-24,ELM-0057,Lave-linge 057,745019.72,Electromenager,34,2,21,72
+2025-05-24,MUS-0084,Saxophone alto 084,1719879.42,Instrument de musique,0,0,9,62
+2025-05-24,GEN-0093,Groupe 12kVA 093,2653498.05,Groupe electrogene,58,196,24,25
+2025-05-24,SMP-0119,Smartphone Nova 119,106685.6,Smartphone,0,41,14,14
+2025-05-24,GEN-0102,Groupe 5kVA 102,2678917.97,Groupe electrogene,108,138,17,31
+2025-05-26,MUS-0098,Guitare acoustique 098,270692.2,Instrument de musique,122,206,22,76
+2025-05-26,SMP-0094,Smartphone Prime 094,1714908.73,Smartphone,231,244,18,16
+2025-05-26,SMP-0082,Smartphone Prime 082,469806.2,Smartphone,116,98,18,33
+2025-05-27,GEN-0008,Groupe 12kVA 008,3866066.06,Groupe electrogene,136,31,4,77
+2025-05-28,ELM-0028,Refrigerateur 028,331778.49,Electromenager,0,147,25,52
+2025-05-30,GEN-0076,Groupe 8kVA 076,3690049.68,Groupe electrogene,0,224,19,62
+2025-05-30,ELM-0105,Aspirateur 105,778029.49,Electromenager,0,77,20,75
+2025-05-30,GEN-0076,Groupe 8kVA 076,3792703.29,Groupe electrogene,0,224,19,17
+2025-05-31,SMP-0111,Smartphone Prime 111,637699.2,Smartphone,0,0,17,27
+2025-05-31,GEN-0031,Groupe 2kVA 031,1844408.15,Groupe electrogene,84,189,16,35
+2025-05-31,GEN-0113,Groupe 8kVA 113,1944624.51,Groupe electrogene,204,496,23,7
+2025-05-31,SMP-0101,Smartphone Edge 101,711398.0,Smartphone,98,320,21,30
+2025-06-01,ELM-0049,Micro-ondes 049,783741.75,Electromenager,174,243,14,50
+2025-06-01,MUS-0013,Clavier arrangeur 013,500387.02,Instrument de musique,40,69,9,1
+2025-06-03,MUS-0033,Piano numerique 033,666798.07,Instrument de musique,145,302,7,27
+2025-06-03,MUS-0063,Batterie electronique 063,575408.82,Instrument de musique,12,265,12,33
+2025-06-04,ELM-0056,Lave-linge 056,457322.65,Electromenager,131,215,15,34
+2025-06-04,GEN-0017,Groupe 5kVA 017,2611914.46,Groupe electrogene,168,164,24,19
+2025-06-05,MUS-0084,Saxophone alto 084,1762156.51,Instrument de musique,0,0,9,66
+2025-06-05,MUS-0056,Guitare acoustique 056,620647.43,Instrument de musique,62,259,20,50
+2025-06-05,MUS-0033,Piano numerique 033,643824.53,Instrument de musique,145,302,7,25
+2025-06-05,MUS-0062,Clavier arrangeur 062,147612.5,Instrument de musique,0,0,7,48
+2025-06-05,SMP-0047,Smartphone Lite 047,331028.67,Smartphone,29,0,18,30
+2025-06-06,ELM-0047,Mixeur 047,960643.6,Electromenager,107,266,25,27
+2025-06-06,ELM-0044,Mixeur 044,1146674.92,Electromenager,178,229,24,62
+2025-06-06,GEN-0034,Groupe silencieux 6kVA 034,2191988.04,Groupe electrogene,203,57,23,78
+2025-06-07,ELM-0049,Micro-ondes 049,765923.6,Electromenager,174,243,14,68
+2025-06-09,MUS-0008,Piano numerique 008,464061.48,Instrument de musique,176,23,13,36
+2025-06-09,GEN-0060,Groupe 12kVA 060,2778980.02,Groupe electrogene,153,125,18,77
+2025-06-09,SMP-0044,Smartphone Prime 044,89727.64,Smartphone,158,143,24,48
+2025-06-09,SMP-0052,Smartphone Ultra 052,1419042.16,Smartphone,103,411,7,3
+2025-06-10,ELM-0047,Mixeur 047,949472.23,Electromenager,107,266,25,72
+2025-06-10,GEN-0086,Groupe 8kVA 086,464022.45,Groupe electrogene,60,0,10,30
+2025-06-10,ELM-0052,Lave-linge 052,359383.35,Electromenager,93,146,10,36
+2025-06-10,SMP-0062,Smartphone Alpha 062,330026.39,Smartphone,37,127,23,25
+2025-06-11,ELM-0028,Refrigerateur 028,362779.08,Electromenager,0,147,25,25
+2025-06-12,MUS-0129,Saxophone alto 129,629840.28,Instrument de musique,19,0,7,73
+2025-06-12,GEN-0091,Groupe silencieux 6kVA 091,468725.3,Groupe electrogene,0,51,25,53
+2025-06-13,MUS-0085,Batterie electronique 085,1959436.58,Instrument de musique,78,31,17,22
+2025-06-13,MUS-0081,Guitare acoustique 081,849327.28,Instrument de musique,189,105,5,23
+2025-06-14,ELM-0007,Refrigerateur 007,416859.3,Electromenager,15,0,16,65
+2025-06-14,SMP-0096,Smartphone Alpha 096,850884.03,Smartphone,202,293,19,48
+2025-06-14,GEN-0053,Groupe 8kVA 053,2111675.14,Groupe electrogene,112,261,17,7
+2025-06-15,GEN-0105,Groupe 8kVA 105,1358614.75,Groupe electrogene,276,467,13,52
+2025-06-15,SMP-0074,Smartphone Lite 074,948288.66,Smartphone,42,291,16,63
+2025-06-16,GEN-0013,Groupe 12kVA 013,2510211.02,Groupe electrogene,174,331,19,28
+2025-06-17,MUS-0130,Piano numerique 130,2030858.17,Instrument de musique,3,178,22,60
+2025-06-17,ELM-0010,Mixeur 010,247312.43,Electromenager,43,101,9,14
+2025-06-17,GEN-0069,Groupe 8kVA 069,1539970.31,Groupe electrogene,181,308,21,43
+2025-06-17,ELM-0059,Climatiseur 059,1014034.99,Electromenager,48,168,13,56
+2025-06-17,GEN-0096,Groupe 2kVA 096,2104508.21,Groupe electrogene,91,266,15,23
+2025-06-18,GEN-0089,Groupe silencieux 6kVA 089,988196.06,Groupe electrogene,74,321,22,34
+2025-06-18,ELM-0098,Lave-linge 098,1150484.58,Electromenager,102,0,21,36
+2025-06-19,ELM-0004,Climatiseur 004,1066432.59,Electromenager,22,179,6,15
+2025-06-19,MUS-0038,Clavier arrangeur 038,466593.37,Instrument de musique,168,219,10,70
+2025-06-20,SMP-0076,Smartphone Alpha 076,1007738.84,Smartphone,43,123,7,42
+2025-06-21,GEN-0003,Groupe 5kVA 003,3433343.34,Groupe electrogene,0,108,22,67
+2025-06-22,GEN-0066,Groupe silencieux 6kVA 066,1882074.2,Groupe electrogene,171,297,9,38
+2025-06-22,SMP-0075,Smartphone Nova 075,599447.91,Smartphone,91,293,12,64
+2025-06-22,ELM-0018,Lave-linge 018,414576.43,Electromenager,75,74,20,45
+2025-06-22,SMP-0034,Smartphone Edge 034,1222135.71,Smartphone,0,269,21,78
+2025-06-22,SMP-0023,Smartphone Ultra 023,1215260.04,Smartphone,41,97,24,60
+2025-06-22,MUS-0074,Batterie electronique 074,1165369.89,Instrument de musique,81,335,20,34
+2025-06-23,ELM-0030,Refrigerateur 030,703981.66,Electromenager,153,141,12,38
+2025-06-24,GEN-0046,Groupe 5kVA 046,1049106.05,Groupe electrogene,108,179,22,10
+2025-06-24,SMP-0109,Smartphone Ultra 109,1477285.01,Smartphone,283,264,11,75
+2025-06-24,SMP-0107,Smartphone Nova 107,1312411.26,Smartphone,191,173,10,60
+2025-06-24,SMP-0125,Smartphone Prime 125,531156.88,Smartphone,0,0,10,69
+2025-06-24,SMP-0111,Smartphone Prime 111,638843.68,Smartphone,0,0,17,14
+2025-06-27,MUS-0012,Saxophone alto 012,495544.26,Instrument de musique,8,232,17,44
+2025-06-27,MUS-0058,Saxophone alto 058,1561124.15,Instrument de musique,8,0,8,12
+2025-06-28,GEN-0062,Groupe 5kVA 062,1396148.93,Groupe electrogene,110,197,10,23
+2025-06-28,GEN-0077,Groupe 8kVA 077,491916.16,Groupe electrogene,37,139,23,2
+2025-06-28,GEN-0038,Groupe 12kVA 038,447916.67,Groupe electrogene,116,447,16,1
+2025-06-29,ELM-0075,Refrigerateur 075,1009793.66,Electromenager,59,225,9,43
+2025-06-29,ELM-0044,Mixeur 044,1094974.66,Electromenager,178,229,24,80
+2025-06-29,ELM-0100,Fer a repasser 100,596547.52,Electromenager,0,0,11,30
+2025-06-29,GEN-0097,Groupe 5kVA 097,3506303.03,Groupe electrogene,284,464,16,37
+2025-06-30,GEN-0110,Groupe 8kVA 110,865319.43,Groupe electrogene,231,358,3,62
+2025-06-30,SMP-0080,Smartphone Prime 080,392941.54,Smartphone,64,376,14,35
+2025-07-01,ELM-0110,Refrigerateur 110,477013.05,Electromenager,0,0,19,77
+2025-07-01,SMP-0010,Smartphone Ultra 010,741966.26,Smartphone,111,0,4,68
+2025-07-01,ELM-0080,Refrigerateur 080,520443.22,Electromenager,208,281,24,61
+2025-07-02,ELM-0126,Climatiseur 126,702983.15,Electromenager,104,352,11,21
+2025-07-02,MUS-0071,Piano numerique 071,2023527.9,Instrument de musique,143,107,4,76
+2025-07-02,SMP-0124,Smartphone Alpha 124,111687.55,Smartphone,96,63,22,17
+2025-07-03,MUS-0066,Clavier arrangeur 066,1590608.06,Instrument de musique,368,571,3,53
+2025-07-04,MUS-0030,Guitare acoustique 030,1519502.47,Instrument de musique,121,256,20,36
+2025-07-04,SMP-0068,Smartphone Alpha 068,1146502.68,Smartphone,0,163,24,29
+2025-07-05,SMP-0006,Smartphone Lite 006,474412.86,Smartphone,80,158,10,20
+2025-07-05,SMP-0028,Smartphone Prime 028,1433296.48,Smartphone,0,4,9,11
+2025-07-06,ELM-0061,Lave-linge 061,724884.84,Electromenager,156,103,13,3
+2025-07-07,SMP-0045,Smartphone Nova 045,831607.87,Smartphone,25,168,12,70
+2025-07-07,SMP-0116,Smartphone Alpha 116,1438398.22,Smartphone,102,392,20,67
+2025-07-07,ELM-0020,Climatiseur 020,949962.59,Electromenager,99,72,16,41
+2025-07-07,GEN-0031,Groupe 2kVA 031,1887709.76,Groupe electrogene,84,189,16,64
+2025-07-08,ELM-0010,Mixeur 010,267251.11,Electromenager,43,101,9,41
+2025-07-08,ELM-0007,Refrigerateur 007,399242.23,Electromenager,15,0,16,3
+2025-07-08,GEN-0050,Groupe 12kVA 050,1553623.19,Groupe electrogene,125,206,5,68
+2025-07-09,MUS-0085,Batterie electronique 085,2080498.01,Instrument de musique,78,31,17,44
+2025-07-09,GEN-0052,Groupe 5kVA 052,2699395.73,Groupe electrogene,150,56,14,77
+2025-07-10,ELM-0021,Climatiseur 021,1138480.98,Electromenager,115,44,8,78
+2025-07-10,MUS-0006,Clavier arrangeur 006,1088405.86,Instrument de musique,85,220,3,14
+2025-07-10,MUS-0021,Clavier arrangeur 021,107269.1,Instrument de musique,0,114,3,3
+2025-07-10,ELM-0058,Lave-linge 058,503249.61,Electromenager,240,113,19,48
+2025-07-11,SMP-0111,Smartphone Prime 111,640680.0,Smartphone,0,0,17,40
+2025-07-11,ELM-0078,Micro-ondes 078,728555.63,Electromenager,53,110,19,24
+2025-07-11,SMP-0096,Smartphone Alpha 096,895722.88,Smartphone,202,293,19,14
+2025-07-11,GEN-0085,Groupe 2kVA 085,1543222.16,Groupe electrogene,34,95,8,14
+2025-07-12,ELM-0075,Refrigerateur 075,916629.54,Electromenager,59,225,9,7
+2025-07-13,GEN-0078,Groupe 12kVA 078,2708751.95,Groupe electrogene,0,106,11,38
+2025-07-14,SMP-0121,Smartphone Prime 121,745869.75,Smartphone,0,110,17,35
+2025-07-14,ELM-0033,Lave-linge 033,830817.6,Electromenager,203,122,7,36
+2025-07-14,ELM-0030,Refrigerateur 030,762802.47,Electromenager,153,141,12,2
+2025-07-14,MUS-0019,Saxophone alto 019,1397068.66,Instrument de musique,0,94,8,51
+2025-07-14,MUS-0130,Piano numerique 130,1979268.92,Instrument de musique,3,178,22,77
+2025-07-16,ELM-0083,Lave-linge 083,1182771.54,Electromenager,175,215,7,34
+2025-07-16,GEN-0094,Groupe 8kVA 094,2665480.01,Groupe electrogene,0,333,25,14
+2025-07-16,MUS-0105,Guitare acoustique 105,1944308.93,Instrument de musique,173,307,7,17
+2025-07-16,MUS-0043,Saxophone alto 043,86190.51,Instrument de musique,175,403,8,49
+2025-07-16,ELM-0081,Mixeur 081,1080447.11,Electromenager,194,259,21,9
+2025-07-17,MUS-0111,Clavier arrangeur 111,1130402.16,Instrument de musique,38,148,9,23
+2025-07-17,MUS-0005,Piano numerique 005,362551.87,Instrument de musique,0,140,5,19
+2025-07-18,MUS-0116,Clavier arrangeur 116,340955.37,Instrument de musique,53,299,16,55
+2025-07-18,GEN-0063,Groupe 5kVA 063,864554.94,Groupe electrogene,152,389,23,34
+2025-07-18,SMP-0077,Smartphone Lite 077,1636167.23,Smartphone,295,290,14,60
+2025-07-19,GEN-0057,Groupe 8kVA 057,2726709.11,Groupe electrogene,31,84,8,52
+2025-07-20,GEN-0017,Groupe 5kVA 017,2686017.28,Groupe electrogene,168,164,24,53
+2025-07-21,MUS-0089,Guitare acoustique 089,813129.4,Instrument de musique,0,219,6,55
+2025-07-23,ELM-0113,Lave-linge 113,787701.52,Electromenager,12,20,6,29
+2025-07-23,MUS-0062,Clavier arrangeur 062,154341.54,Instrument de musique,0,0,7,46
+2025-07-23,ELM-0117,Aspirateur 117,866337.29,Electromenager,0,229,23,47
+2025-07-24,ELM-0106,Congelateur 106,848494.07,Electromenager,0,231,14,23
+2025-07-24,MUS-0081,Guitare acoustique 081,971726.57,Instrument de musique,189,105,5,29
+2025-07-25,ELM-0095,Lave-linge 095,91579.18,Electromenager,223,278,3,17
+2025-07-26,MUS-0044,Guitare acoustique 044,876562.06,Instrument de musique,174,339,8,70
+2025-07-26,MUS-0101,Violon etude 101,2091879.56,Instrument de musique,122,201,5,17
+2025-07-27,ELM-0047,Mixeur 047,874434.9,Electromenager,107,266,25,26
+2025-07-27,SMP-0105,Smartphone Prime 105,763583.78,Smartphone,7,146,15,42
+2025-07-28,GEN-0074,Groupe silencieux 6kVA 074,3087655.37,Groupe electrogene,275,172,5,28
+2025-07-28,ELM-0032,Mixeur 032,1217902.64,Electromenager,222,151,21,79
+2025-07-28,MUS-0013,Clavier arrangeur 013,502104.27,Instrument de musique,40,69,9,77
+2025-07-29,ELM-0084,Aspirateur 084,194198.34,Electromenager,142,47,13,74
+2025-07-29,GEN-0001,Groupe silencieux 6kVA 001,2162012.72,Groupe electrogene,83,59,20,43
+2025-07-29,ELM-0118,Congelateur 118,218634.77,Electromenager,0,0,5,35
+2025-07-30,MUS-0083,Batterie electronique 083,488324.33,Instrument de musique,123,73,17,19
+2025-07-30,MUS-0023,Batterie electronique 023,1273926.29,Instrument de musique,51,133,8,56
+2025-07-30,MUS-0014,Violon etude 014,1372038.1,Instrument de musique,63,0,11,61
+2025-07-31,GEN-0103,Groupe silencieux 6kVA 103,468400.73,Groupe electrogene,76,95,25,1
+2025-07-31,SMP-0082,Smartphone Prime 082,517185.13,Smartphone,116,98,18,54
+2025-08-01,GEN-0090,Groupe 5kVA 090,2906094.41,Groupe electrogene,0,133,15,20
+2025-08-01,GEN-0108,Groupe 12kVA 108,3520278.57,Groupe electrogene,22,257,25,43
+2025-08-02,GEN-0091,Groupe silencieux 6kVA 091,428906.65,Groupe electrogene,0,51,25,19
+2025-08-02,MUS-0088,Batterie electronique 088,60892.92,Instrument de musique,109,334,17,38
+2025-08-02,MUS-0033,Piano numerique 033,627883.94,Instrument de musique,145,302,7,2
+2025-08-04,GEN-0045,Groupe silencieux 6kVA 045,1198725.6,Groupe electrogene,43,0,12,33
+2025-08-04,MUS-0030,Guitare acoustique 030,1356347.76,Instrument de musique,121,256,20,71
+2025-08-04,MUS-0053,Piano numerique 053,1536960.13,Instrument de musique,218,158,7,15
+2025-08-05,MUS-0043,Saxophone alto 043,78241.06,Instrument de musique,175,403,8,2
+2025-08-05,SMP-0081,Smartphone Nova 081,1613462.12,Smartphone,28,210,5,49
+2025-08-06,ELM-0125,Refrigerateur 125,748770.35,Electromenager,47,0,21,57
+2025-08-07,SMP-0011,Smartphone Ultra 011,1145025.67,Smartphone,10,263,11,21
+2025-08-07,GEN-0108,Groupe 12kVA 108,3482829.65,Groupe electrogene,22,257,25,36
+2025-08-08,MUS-0004,Batterie electronique 004,1319531.76,Instrument de musique,0,201,19,63
+2025-08-08,GEN-0045,Groupe silencieux 6kVA 045,1109446.17,Groupe electrogene,43,0,12,65
+2025-08-08,MUS-0054,Saxophone alto 054,956266.62,Instrument de musique,97,146,3,4
+2025-08-10,SMP-0004,Smartphone Alpha 004,299013.16,Smartphone,8,0,6,67
+2025-08-10,SMP-0115,Smartphone Prime 115,1472072.55,Smartphone,0,0,17,54
+2025-08-11,ELM-0002,Fer a repasser 002,710883.95,Electromenager,85,337,22,71
+2025-08-11,SMP-0026,Smartphone Nova 026,316114.67,Smartphone,218,444,23,50
+2025-08-11,MUS-0079,Violon etude 079,1836747.3,Instrument de musique,221,383,13,15
+2025-08-12,GEN-0059,Groupe 2kVA 059,2539509.53,Groupe electrogene,41,288,23,4
+2025-08-12,ELM-0020,Climatiseur 020,897285.57,Electromenager,99,72,16,20
+2025-08-14,MUS-0027,Saxophone alto 027,907017.02,Instrument de musique,12,25,7,67
+2025-08-15,SMP-0053,Smartphone Edge 053,227918.67,Smartphone,0,205,18,33
+2025-08-15,MUS-0124,Clavier arrangeur 124,1481124.95,Instrument de musique,99,236,9,4
+2025-08-15,MUS-0015,Clavier arrangeur 015,1167479.26,Instrument de musique,16,158,12,52
+2025-08-15,SMP-0008,Smartphone Nova 008,888869.78,Smartphone,35,0,6,72
+2025-08-16,MUS-0128,Guitare acoustique 128,247826.2,Instrument de musique,46,163,23,8
+2025-08-16,SMP-0112,Smartphone Ultra 112,1538981.61,Smartphone,151,216,10,73
+2025-08-18,MUS-0104,Piano numerique 104,1210811.34,Instrument de musique,48,97,14,21
+2025-08-19,MUS-0117,Clavier arrangeur 117,1116672.66,Instrument de musique,144,337,6,8
+2025-08-19,MUS-0058,Saxophone alto 058,1608724.37,Instrument de musique,8,0,8,4
+2025-08-20,MUS-0082,Clavier arrangeur 082,342979.53,Instrument de musique,10,0,3,69
+2025-08-20,MUS-0037,Batterie electronique 037,1798085.18,Instrument de musique,74,175,23,75
+2025-08-20,MUS-0022,Batterie electronique 022,633524.59,Instrument de musique,300,424,17,5
+2025-08-20,SMP-0046,Smartphone Edge 046,1347586.86,Smartphone,98,185,6,9
+2025-08-20,GEN-0080,Groupe 5kVA 080,3185466.96,Groupe electrogene,0,0,11,64
+2025-08-20,ELM-0022,Micro-ondes 022,610344.36,Electromenager,22,279,19,46
+2025-08-21,ELM-0058,Lave-linge 058,535955.51,Electromenager,240,113,19,76
+2025-08-21,SMP-0077,Smartphone Lite 077,1499361.26,Smartphone,295,290,14,57
+2025-08-22,SMP-0032,Smartphone Lite 032,1163906.14,Smartphone,17,109,25,24
+2025-08-23,MUS-0014,Violon etude 014,1344345.51,Instrument de musique,63,0,11,3
+2025-08-25,MUS-0115,Clavier arrangeur 115,443784.68,Instrument de musique,218,402,23,18
+2025-08-25,SMP-0037,Smartphone Prime 037,334227.67,Smartphone,23,43,4,22
+2025-08-25,ELM-0059,Climatiseur 059,1115309.28,Electromenager,48,168,13,33
+2025-08-25,SMP-0082,Smartphone Prime 082,526379.63,Smartphone,116,98,18,1
+2025-08-25,ELM-0110,Refrigerateur 110,464395.73,Electromenager,0,0,19,47
+2025-08-26,SMP-0037,Smartphone Prime 037,334090.43,Smartphone,23,43,4,47
+2025-08-27,SMP-0047,Smartphone Lite 047,319356.0,Smartphone,29,0,18,51
+2025-08-28,GEN-0086,Groupe 8kVA 086,467311.96,Groupe electrogene,60,0,10,65
+2025-08-28,MUS-0053,Piano numerique 053,1502430.27,Instrument de musique,218,158,7,31
+2025-08-28,ELM-0065,Aspirateur 065,1180563.49,Electromenager,155,407,16,17
+2025-08-30,ELM-0098,Lave-linge 098,1092034.88,Electromenager,102,0,21,68
+2025-08-31,GEN-0004,Groupe 2kVA 004,3413902.69,Groupe electrogene,68,157,24,9
+2025-08-31,ELM-0084,Aspirateur 084,195743.1,Electromenager,142,47,13,11
+2025-08-31,ELM-0100,Fer a repasser 100,599274.01,Electromenager,0,0,11,42
+2025-09-01,MUS-0020,Clavier arrangeur 020,1992974.89,Instrument de musique,89,54,12,24
+2025-09-02,ELM-0036,Refrigerateur 036,376985.79,Electromenager,74,227,3,26
+2025-09-02,GEN-0024,Groupe 2kVA 024,2059084.97,Groupe electrogene,0,176,13,61
+2025-09-03,SMP-0111,Smartphone Prime 111,565432.86,Smartphone,0,0,17,67
+2025-09-03,ELM-0078,Micro-ondes 078,709300.04,Electromenager,53,110,19,29
+2025-09-03,GEN-0017,Groupe 5kVA 017,2572108.28,Groupe electrogene,168,164,24,18
+2025-09-03,ELM-0031,Aspirateur 031,607854.33,Electromenager,226,475,24,27
+2025-09-04,SMP-0065,Smartphone Ultra 065,285007.22,Smartphone,195,482,8,6
+2025-09-04,GEN-0045,Groupe silencieux 6kVA 045,1067644.61,Groupe electrogene,43,0,12,16
+2025-09-04,MUS-0041,Piano numerique 041,470237.44,Instrument de musique,0,228,22,21
+2025-09-06,ELM-0062,Mixeur 062,820405.37,Electromenager,101,64,14,78
+2025-09-06,GEN-0098,Groupe 5kVA 098,3078352.62,Groupe electrogene,43,0,3,66
+2025-09-06,GEN-0092,Groupe 2kVA 092,3067947.9,Groupe electrogene,89,39,13,39
+2025-09-07,SMP-0083,Smartphone Nova 083,1540603.25,Smartphone,10,147,6,57
+2025-09-08,ELM-0005,Refrigerateur 005,64444.67,Electromenager,55,252,7,49
+2025-09-08,GEN-0013,Groupe 12kVA 013,2444224.13,Groupe electrogene,174,331,19,23
+2025-09-08,SMP-0016,Smartphone Ultra 016,176906.73,Smartphone,169,416,7,21
+2025-09-09,MUS-0055,Saxophone alto 055,1870672.55,Instrument de musique,77,83,6,49
+2025-09-12,SMP-0100,Smartphone Prime 100,769862.28,Smartphone,0,132,8,20
+2025-09-12,MUS-0008,Piano numerique 008,415762.51,Instrument de musique,176,23,13,58
+2025-09-13,SMP-0085,Smartphone Ultra 085,590015.64,Smartphone,0,251,24,14
+2025-09-13,ELM-0110,Refrigerateur 110,444111.26,Electromenager,0,0,19,48
+2025-09-13,GEN-0011,Groupe silencieux 6kVA 011,3908053.58,Groupe electrogene,36,191,16,20
+2025-09-13,ELM-0092,Congelateur 092,181926.13,Electromenager,412,543,9,70
+2025-09-16,ELM-0009,Lave-linge 009,88635.85,Electromenager,0,0,25,21
+2025-09-17,MUS-0057,Violon etude 057,1257704.6,Instrument de musique,0,30,11,65
+2025-09-17,ELM-0073,Congelateur 073,226919.31,Electromenager,0,59,4,77
+2025-09-17,GEN-0032,Groupe 5kVA 032,1563858.85,Groupe electrogene,97,284,22,16
+2025-09-18,ELM-0036,Refrigerateur 036,372369.61,Electromenager,74,227,3,19
+2025-09-18,MUS-0079,Violon etude 079,1896052.5,Instrument de musique,221,383,13,71
+2025-09-18,ELM-0055,Lave-linge 055,930415.1,Electromenager,88,325,11,5
+2025-09-19,MUS-0002,Batterie electronique 002,98891.15,Instrument de musique,41,276,10,79
+2025-09-19,GEN-0103,Groupe silencieux 6kVA 103,473478.28,Groupe electrogene,76,95,25,58
+2025-09-19,GEN-0083,Groupe 8kVA 083,3633458.31,Groupe electrogene,0,301,22,30
+2025-09-20,MUS-0022,Batterie electronique 022,690614.66,Instrument de musique,300,424,17,34
+2025-09-20,MUS-0101,Violon etude 101,2017878.02,Instrument de musique,122,201,5,36
+2025-09-21,GEN-0045,Groupe silencieux 6kVA 045,1066899.93,Groupe electrogene,43,0,12,55
+2025-09-21,MUS-0068,Guitare acoustique 068,1166011.7,Instrument de musique,251,303,6,72
+2025-09-22,SMP-0019,Smartphone Nova 019,1444697.92,Smartphone,0,177,7,24
+2025-09-23,GEN-0084,Groupe silencieux 6kVA 084,4231088.8,Groupe electrogene,188,352,22,38
+2025-09-23,ELM-0086,Climatiseur 086,337077.47,Electromenager,63,282,25,43
+2025-09-25,ELM-0080,Refrigerateur 080,581373.6,Electromenager,208,281,24,27
+2025-09-26,SMP-0031,Smartphone Alpha 031,1243168.44,Smartphone,171,128,19,28
+2025-09-28,ELM-0053,Fer a repasser 053,213629.2,Electromenager,175,341,21,21
+2025-09-28,MUS-0009,Clavier arrangeur 009,1946712.95,Instrument de musique,389,493,18,42
+2025-09-29,ELM-0015,Climatiseur 015,552484.92,Electromenager,20,166,6,39
+2025-09-29,GEN-0064,Groupe 5kVA 064,611403.91,Groupe electrogene,140,393,24,19
+2025-09-29,ELM-0005,Refrigerateur 005,64598.9,Electromenager,55,252,7,16
+2025-09-29,ELM-0077,Climatiseur 077,421895.14,Electromenager,112,198,19,78
+2025-09-29,MUS-0070,Batterie electronique 070,442398.32,Instrument de musique,56,275,4,18
+2025-09-30,ELM-0005,Refrigerateur 005,70721.46,Electromenager,55,252,7,17
+2025-09-30,SMP-0089,Smartphone Ultra 089,462268.63,Smartphone,136,147,9,57
+2025-09-30,GEN-0092,Groupe 2kVA 092,2836914.98,Groupe electrogene,89,39,13,17
+2025-09-30,SMP-0113,Smartphone Alpha 113,1317158.6,Smartphone,137,288,19,58
+2025-10-02,ELM-0049,Micro-ondes 049,783146.59,Electromenager,174,243,14,77
+2025-10-02,MUS-0100,Piano numerique 100,1819797.37,Instrument de musique,284,329,19,1
+2025-10-02,GEN-0032,Groupe 5kVA 032,1520227.44,Groupe electrogene,97,284,22,60
+2025-10-03,ELM-0054,Micro-ondes 054,799775.23,Electromenager,174,370,19,45
+2025-10-03,MUS-0011,Guitare acoustique 011,679258.56,Instrument de musique,247,423,17,15
+2025-10-03,SMP-0073,Smartphone Nova 073,348378.55,Smartphone,113,265,22,66
+2025-10-04,SMP-0100,Smartphone Prime 100,855038.48,Smartphone,0,132,8,69
+2025-10-04,MUS-0117,Clavier arrangeur 117,1199173.24,Instrument de musique,144,337,6,57
+2025-10-04,MUS-0069,Violon etude 069,595213.6,Instrument de musique,269,384,8,4
+2025-10-05,MUS-0122,Batterie electronique 122,2012249.06,Instrument de musique,279,456,3,76
+2025-10-05,SMP-0103,Smartphone Ultra 103,1234846.71,Smartphone,0,0,10,70
+2025-10-05,GEN-0085,Groupe 2kVA 085,1713567.95,Groupe electrogene,34,95,8,16
+2025-10-06,GEN-0023,Groupe 2kVA 023,1496911.15,Groupe electrogene,114,161,15,49
+2025-10-06,ELM-0111,Climatiseur 111,1246771.62,Electromenager,242,569,22,5
+2025-10-06,ELM-0022,Micro-ondes 022,596523.35,Electromenager,22,279,19,33
+2025-10-07,GEN-0009,Groupe 5kVA 009,1176130.07,Groupe electrogene,109,257,22,7
+2025-10-07,GEN-0073,Groupe silencieux 6kVA 073,3387247.32,Groupe electrogene,0,16,16,75
+2025-10-08,ELM-0118,Congelateur 118,246555.61,Electromenager,0,0,5,37
+2025-10-08,GEN-0030,Groupe 12kVA 030,1896274.86,Groupe electrogene,8,71,13,64
+2025-10-09,ELM-0095,Lave-linge 095,83711.14,Electromenager,223,278,3,4
+2025-10-09,GEN-0034,Groupe silencieux 6kVA 034,2049806.76,Groupe electrogene,203,57,23,49
+2025-10-09,ELM-0054,Micro-ondes 054,706403.95,Electromenager,174,370,19,38
+2025-10-10,MUS-0076,Guitare acoustique 076,1660875.67,Instrument de musique,72,131,13,69
+2025-10-10,MUS-0058,Saxophone alto 058,1571543.78,Instrument de musique,8,0,8,55
+2025-10-11,SMP-0079,Smartphone Nova 079,557502.9,Smartphone,128,408,23,20
+2025-10-11,GEN-0023,Groupe 2kVA 023,1290808.98,Groupe electrogene,114,161,15,78
+2025-10-12,MUS-0018,Saxophone alto 018,206491.87,Instrument de musique,74,53,9,65
+2025-10-12,GEN-0026,Groupe 12kVA 026,1698647.86,Groupe electrogene,149,337,21,50
+2025-10-13,MUS-0081,Guitare acoustique 081,842139.97,Instrument de musique,189,105,5,67
+2025-10-13,ELM-0060,Fer a repasser 060,1087671.14,Electromenager,0,223,11,79
+2025-10-14,GEN-0024,Groupe 2kVA 024,2044876.68,Groupe electrogene,0,176,13,11
+2025-10-15,GEN-0107,Groupe silencieux 6kVA 107,2848757.39,Groupe electrogene,103,419,5,22
+2025-10-15,SMP-0001,Smartphone Edge 001,997624.37,Smartphone,83,231,9,42
+2025-10-16,ELM-0125,Refrigerateur 125,808167.58,Electromenager,47,0,21,26
+2025-10-16,ELM-0079,Mixeur 079,240758.61,Electromenager,74,0,25,32
+2025-10-17,MUS-0067,Piano numerique 067,1366443.59,Instrument de musique,165,408,19,44
+2025-10-18,ELM-0087,Aspirateur 087,1253857.87,Electromenager,72,137,23,2
+2025-10-19,GEN-0083,Groupe 8kVA 083,3398551.04,Groupe electrogene,0,301,22,38
+2025-10-19,GEN-0074,Groupe silencieux 6kVA 074,3250996.58,Groupe electrogene,275,172,5,75
+2025-10-19,MUS-0024,Clavier arrangeur 024,1841611.4,Instrument de musique,0,211,14,33
+2025-10-20,ELM-0010,Mixeur 010,260522.01,Electromenager,43,101,9,20
+2025-10-21,GEN-0019,Groupe 2kVA 019,1793155.43,Groupe electrogene,60,299,11,16
+2025-10-22,ELM-0076,Micro-ondes 076,737467.51,Electromenager,205,418,6,48
+2025-10-22,MUS-0091,Batterie electronique 091,431740.76,Instrument de musique,78,191,5,25
+2025-10-23,MUS-0078,Saxophone alto 078,1266586.65,Instrument de musique,0,304,19,4
+2025-10-23,GEN-0010,Groupe silencieux 6kVA 010,2677676.02,Groupe electrogene,0,301,10,26
+2025-10-24,GEN-0070,Groupe 5kVA 070,3759547.33,Groupe electrogene,30,13,24,6
+2025-10-24,ELM-0057,Lave-linge 057,733859.97,Electromenager,34,2,21,58
+2025-10-25,MUS-0019,Saxophone alto 019,1372954.62,Instrument de musique,0,94,8,38
+2025-10-25,SMP-0114,Smartphone Prime 114,738944.65,Smartphone,0,155,7,80
+2025-10-26,GEN-0105,Groupe 8kVA 105,1410074.65,Groupe electrogene,276,467,13,64
+2025-10-27,GEN-0030,Groupe 12kVA 030,1921305.09,Groupe electrogene,8,71,13,58
+2025-10-28,ELM-0106,Congelateur 106,889235.26,Electromenager,0,231,14,45
+2025-10-29,ELM-0121,Lave-linge 121,73878.01,Electromenager,212,439,14,45
+2025-10-30,MUS-0102,Piano numerique 102,1803172.69,Instrument de musique,11,0,11,69
+2025-10-30,SMP-0008,Smartphone Nova 008,944306.63,Smartphone,35,0,6,74
+2025-11-01,SMP-0002,Smartphone Edge 002,1714805.44,Smartphone,72,185,16,32
+2025-11-02,SMP-0089,Smartphone Ultra 089,515990.99,Smartphone,136,147,9,26
+2025-11-03,SMP-0105,Smartphone Prime 105,731602.24,Smartphone,7,146,15,46
+2025-11-03,GEN-0072,Groupe 12kVA 072,2245994.64,Groupe electrogene,38,47,11,25
+2025-11-03,MUS-0029,Piano numerique 029,1755876.07,Instrument de musique,0,243,25,5
+2025-11-04,MUS-0119,Batterie electronique 119,535421.65,Instrument de musique,185,217,3,36
+2025-11-04,GEN-0002,Groupe 12kVA 002,487408.77,Groupe electrogene,103,168,16,58
+2025-11-05,ELM-0065,Aspirateur 065,1183321.1,Electromenager,155,407,16,73
+2025-11-06,ELM-0100,Fer a repasser 100,582480.29,Electromenager,0,0,11,46
+2025-11-08,GEN-0078,Groupe 12kVA 078,2550645.76,Groupe electrogene,0,106,11,64
+2025-11-08,ELM-0125,Refrigerateur 125,782613.22,Electromenager,47,0,21,36
+2025-11-09,ELM-0123,Mixeur 123,803325.36,Electromenager,0,150,18,34
+2025-11-10,MUS-0022,Batterie electronique 022,601815.66,Instrument de musique,300,424,17,18
+2025-11-10,SMP-0024,Smartphone Nova 024,917374.35,Smartphone,309,410,19,24
+2025-11-10,GEN-0097,Groupe 5kVA 097,3692130.26,Groupe electrogene,284,464,16,73
+2025-11-11,ELM-0046,Fer a repasser 046,846133.15,Electromenager,0,148,9,80
+2025-11-12,ELM-0100,Fer a repasser 100,630624.26,Electromenager,0,0,11,18
+2025-11-13,MUS-0041,Piano numerique 041,452452.06,Instrument de musique,0,228,22,30
+2025-11-14,MUS-0046,Saxophone alto 046,1130079.03,Instrument de musique,318,434,18,70
+2025-11-14,SMP-0090,Smartphone Alpha 090,91206.65,Smartphone,52,231,19,1
+2025-11-15,ELM-0058,Lave-linge 058,510670.27,Electromenager,240,113,19,70
+2025-11-15,GEN-0073,Groupe silencieux 6kVA 073,3425891.36,Groupe electrogene,0,16,16,10
+2025-11-15,SMP-0108,Smartphone Lite 108,1571306.36,Smartphone,0,95,21,9
+2025-11-17,MUS-0110,Guitare acoustique 110,963755.38,Instrument de musique,100,167,22,20
+2025-11-18,SMP-0023,Smartphone Ultra 023,1417349.53,Smartphone,41,97,24,26
+2025-11-19,ELM-0104,Congelateur 104,527104.3,Electromenager,193,521,25,22
+2025-11-20,MUS-0129,Saxophone alto 129,685945.56,Instrument de musique,19,0,7,79
+2025-11-21,GEN-0006,Groupe 12kVA 006,2641359.59,Groupe electrogene,168,283,18,19
+2025-11-22,GEN-0061,Groupe 12kVA 061,1682934.9,Groupe electrogene,0,51,13,66
+2025-11-24,ELM-0107,Lave-linge 107,345923.94,Electromenager,246,224,3,35
+2025-11-25,MUS-0001,Saxophone alto 001,1411864.28,Instrument de musique,265,226,9,26
+2025-11-26,ELM-0080,Refrigerateur 080,504086.12,Electromenager,208,281,24,57
+2025-11-26,SMP-0035,Smartphone Lite 035,368575.95,Smartphone,111,19,20,16
+2025-11-27,ELM-0098,Lave-linge 098,1088717.7,Electromenager,102,0,21,31
+2025-11-27,ELM-0047,Mixeur 047,995011.9,Electromenager,107,266,25,28
+2025-11-27,MUS-0033,Piano numerique 033,615818.84,Instrument de musique,145,302,7,22
+2025-11-28,SMP-0041,Smartphone Alpha 041,879413.38,Smartphone,55,293,3,75
+2025-11-28,GEN-0007,Groupe 8kVA 007,3499186.49,Groupe electrogene,0,166,21,51
+2025-11-29,MUS-0077,Violon etude 077,1940145.15,Instrument de musique,95,155,14,76
+2025-11-29,ELM-0034,Climatiseur 034,623598.56,Electromenager,0,153,21,59
+2025-11-29,SMP-0028,Smartphone Prime 028,1493199.56,Smartphone,0,4,9,1
+2025-11-30,SMP-0068,Smartphone Alpha 068,1181550.72,Smartphone,0,163,24,35
+2025-11-30,ELM-0049,Micro-ondes 049,808239.46,Electromenager,174,243,14,17
+2025-12-01,GEN-0058,Groupe 2kVA 058,3734508.31,Groupe electrogene,115,411,5,33
+2025-12-01,ELM-0033,Lave-linge 033,792974.43,Electromenager,203,122,7,5
+2025-12-02,MUS-0115,Clavier arrangeur 115,390024.14,Instrument de musique,218,402,23,42
+2025-12-02,GEN-0070,Groupe 5kVA 070,3866957.92,Groupe electrogene,30,13,24,8
+2025-12-03,SMP-0047,Smartphone Lite 047,305820.76,Smartphone,29,0,18,71
+2025-12-03,ELM-0071,Lave-linge 071,260392.08,Electromenager,150,105,15,65
+2025-12-04,MUS-0060,Batterie electronique 060,1078854.29,Instrument de musique,96,369,16,51
+2025-12-05,SMP-0035,Smartphone Lite 035,417747.31,Smartphone,111,19,20,57
+2025-12-05,GEN-0055,Groupe 5kVA 055,1012576.1,Groupe electrogene,107,131,6,34
+2025-12-05,GEN-0067,Groupe 12kVA 067,1272355.89,Groupe electrogene,0,83,10,22
+2025-12-06,ELM-0009,Lave-linge 009,87040.95,Electromenager,0,0,25,52
+2025-12-06,SMP-0071,Smartphone Ultra 071,785156.64,Smartphone,82,115,19,75
+2025-12-07,GEN-0094,Groupe 8kVA 094,2728607.98,Groupe electrogene,0,333,25,19
+2025-12-07,GEN-0093,Groupe 12kVA 093,2670669.62,Groupe electrogene,58,196,24,28
+2025-12-08,GEN-0091,Groupe silencieux 6kVA 091,438803.15,Groupe electrogene,0,51,25,80
+2025-12-08,GEN-0065,Groupe 12kVA 065,3813267.43,Groupe electrogene,85,83,10,71
+2025-12-09,SMP-0085,Smartphone Ultra 085,543497.13,Smartphone,0,251,24,29
+2025-12-09,ELM-0079,Mixeur 079,267551.67,Electromenager,74,0,25,32
+2025-12-09,GEN-0074,Groupe silencieux 6kVA 074,3030806.23,Groupe electrogene,275,172,5,30
+2025-12-10,MUS-0050,Violon etude 050,1844336.82,Instrument de musique,2,226,20,45
+2025-12-10,SMP-0049,Smartphone Ultra 049,957972.61,Smartphone,32,71,8,4
+2025-12-11,GEN-0063,Groupe 5kVA 063,887960.94,Groupe electrogene,152,389,23,42
+2025-12-12,ELM-0037,Fer a repasser 037,469996.3,Electromenager,102,68,12,65
+2025-12-12,SMP-0078,Smartphone Ultra 078,1095859.46,Smartphone,61,203,20,70
+2025-12-12,MUS-0043,Saxophone alto 043,81760.95,Instrument de musique,175,403,8,29
+2025-12-12,GEN-0075,Groupe 8kVA 075,3370248.74,Groupe electrogene,190,225,9,67
+2025-12-13,ELM-0004,Climatiseur 004,1020479.05,Electromenager,22,179,6,47
+2025-12-13,SMP-0090,Smartphone Alpha 090,86753.76,Smartphone,52,231,19,45
+2025-12-13,ELM-0125,Refrigerateur 125,809873.92,Electromenager,47,0,21,40
+2025-12-13,SMP-0034,Smartphone Edge 034,1303290.41,Smartphone,0,269,21,8
+2025-12-13,SMP-0067,Smartphone Ultra 067,1538591.04,Smartphone,7,0,17,9
+2025-12-14,MUS-0064,Batterie electronique 064,134215.85,Instrument de musique,380,424,22,34
+2025-12-14,SMP-0104,Smartphone Edge 104,1286095.89,Smartphone,110,181,3,57
+2025-12-15,MUS-0128,Guitare acoustique 128,243443.78,Instrument de musique,46,163,23,8
+2025-12-15,SMP-0066,Smartphone Prime 066,433635.34,Smartphone,77,305,20,7
+2025-12-15,MUS-0055,Saxophone alto 055,1878448.92,Instrument de musique,77,83,6,7
+2025-12-17,ELM-0053,Fer a repasser 053,202310.19,Electromenager,175,341,21,49
+2025-12-17,ELM-0121,Lave-linge 121,78963.13,Electromenager,212,439,14,1
+2025-12-17,ELM-0048,Lave-linge 048,464887.37,Electromenager,130,160,21,68
+2025-12-18,ELM-0110,Refrigerateur 110,474478.08,Electromenager,0,0,19,77
+2025-12-18,GEN-0044,Groupe 12kVA 044,3389806.13,Groupe electrogene,0,139,19,28
+2025-12-18,MUS-0125,Saxophone alto 125,1745315.18,Instrument de musique,67,240,24,13
+2025-12-18,ELM-0055,Lave-linge 055,961321.34,Electromenager,88,325,11,12
+2025-12-19,ELM-0095,Lave-linge 095,83109.78,Electromenager,223,278,3,19
+2025-12-19,ELM-0072,Micro-ondes 072,462540.15,Electromenager,89,190,13,36
+2025-12-19,SMP-0016,Smartphone Ultra 016,166951.76,Smartphone,169,416,7,6
+2025-12-20,MUS-0062,Clavier arrangeur 062,148068.4,Instrument de musique,0,0,7,35
+2025-12-20,ELM-0082,Aspirateur 082,1231041.41,Electromenager,109,224,11,79
+2025-12-22,ELM-0018,Lave-linge 018,389641.9,Electromenager,75,74,20,48
+2025-12-23,SMP-0044,Smartphone Prime 044,96859.78,Smartphone,158,143,24,17
+2025-12-23,SMP-0069,Smartphone Lite 069,244717.02,Smartphone,136,350,19,26
+2025-12-24,MUS-0009,Clavier arrangeur 009,1908956.9,Instrument de musique,389,493,18,13
+2025-12-24,MUS-0099,Guitare acoustique 099,272850.52,Instrument de musique,94,219,21,77
+2025-12-24,SMP-0042,Smartphone Lite 042,620964.91,Smartphone,301,584,24,35
+2025-12-25,MUS-0010,Piano numerique 010,1527488.37,Instrument de musique,15,90,11,13
+2025-12-25,ELM-0018,Lave-linge 018,416608.89,Electromenager,75,74,20,62
+2025-12-25,ELM-0035,Mixeur 035,1032711.06,Electromenager,312,515,11,72
+2025-12-25,SMP-0008,Smartphone Nova 008,903167.41,Smartphone,35,0,6,52
+2025-12-25,ELM-0128,Congelateur 128,1046222.41,Electromenager,101,130,7,80
+2025-12-27,GEN-0064,Groupe 5kVA 064,635724.05,Groupe electrogene,140,393,24,19
+2025-12-27,MUS-0113,Saxophone alto 113,832429.19,Instrument de musique,184,105,12,79
+2025-12-27,GEN-0001,Groupe silencieux 6kVA 001,2430718.79,Groupe electrogene,83,59,20,23
+2025-12-27,MUS-0001,Saxophone alto 001,1374134.95,Instrument de musique,265,226,9,40
+2025-12-28,ELM-0056,Lave-linge 056,479843.06,Electromenager,131,215,15,42
+2025-12-29,SMP-0044,Smartphone Prime 044,89947.45,Smartphone,158,143,24,36
+2025-12-29,SMP-0103,Smartphone Ultra 103,1209377.48,Smartphone,0,0,10,61
+2025-12-29,ELM-0127,Lave-linge 127,770168.0,Electromenager,0,305,6,14
+2025-12-30,ELM-0070,Micro-ondes 070,805999.17,Electromenager,214,225,17,42
+2025-12-31,SMP-0032,Smartphone Lite 032,1111097.49,Smartphone,17,109,25,19
+2026-01-01,GEN-0101,Groupe 5kVA 101,2248729.15,Groupe electrogene,96,144,16,63
+2026-01-02,GEN-0009,Groupe 5kVA 009,1132458.86,Groupe electrogene,109,257,22,22
+2026-01-02,ELM-0032,Mixeur 032,1202997.67,Electromenager,222,151,21,18
+2026-01-03,SMP-0070,Smartphone Prime 070,1342447.85,Smartphone,118,373,6,23
+2026-01-03,ELM-0068,Climatiseur 068,117793.21,Electromenager,39,68,13,11
+2026-01-03,MUS-0007,Violon etude 007,1365398.68,Instrument de musique,256,421,22,23
+2026-01-04,ELM-0097,Climatiseur 097,236151.38,Electromenager,36,82,3,12
+2026-01-04,SMP-0028,Smartphone Prime 028,1532839.38,Smartphone,0,4,9,4
+2026-01-05,ELM-0125,Refrigerateur 125,777169.75,Electromenager,47,0,21,18
+2026-01-05,ELM-0097,Climatiseur 097,255272.3,Electromenager,36,82,3,24
+2026-01-06,ELM-0125,Refrigerateur 125,702273.56,Electromenager,47,0,21,24
+2026-01-06,SMP-0032,Smartphone Lite 032,1144805.24,Smartphone,17,109,25,40
+2026-01-07,SMP-0040,Smartphone Prime 040,1278841.2,Smartphone,96,50,11,67
+2026-01-07,MUS-0030,Guitare acoustique 030,1381804.22,Instrument de musique,121,256,20,80
+2026-01-08,GEN-0075,Groupe 8kVA 075,3569013.99,Groupe electrogene,190,225,9,31
+2026-01-08,ELM-0051,Aspirateur 051,1157478.23,Electromenager,186,205,15,33
+2026-01-09,SMP-0008,Smartphone Nova 008,915594.08,Smartphone,35,0,6,61
+2026-01-09,SMP-0127,Smartphone Prime 127,1336831.16,Smartphone,0,0,5,61
+2026-01-10,MUS-0008,Piano numerique 008,477159.16,Instrument de musique,176,23,13,61
+2026-01-10,MUS-0048,Saxophone alto 048,1183676.67,Instrument de musique,22,306,18,45
+2026-01-11,MUS-0024,Clavier arrangeur 024,1929334.61,Instrument de musique,0,211,14,48
+2026-01-11,MUS-0069,Violon etude 069,618015.63,Instrument de musique,269,384,8,76
+2026-01-11,MUS-0039,Piano numerique 039,185641.51,Instrument de musique,0,142,25,78
+2026-01-11,SMP-0048,Smartphone Alpha 048,964881.0,Smartphone,87,277,20,28
+2026-01-12,MUS-0083,Batterie electronique 083,492084.44,Instrument de musique,123,73,17,76
+2026-01-12,GEN-0050,Groupe 12kVA 050,1506409.96,Groupe electrogene,125,206,5,73
+2026-01-12,MUS-0113,Saxophone alto 113,800756.92,Instrument de musique,184,105,12,44
+2026-01-12,SMP-0038,Smartphone Lite 038,684579.14,Smartphone,148,187,16,52
+2026-01-13,ELM-0067,Climatiseur 067,1044753.17,Electromenager,38,255,9,51
+2026-01-14,ELM-0125,Refrigerateur 125,763361.98,Electromenager,47,0,21,24
+2026-01-14,ELM-0062,Mixeur 062,842353.6,Electromenager,101,64,14,28
+2026-01-15,ELM-0094,Aspirateur 094,755226.37,Electromenager,99,384,6,32
+2026-01-15,ELM-0038,Lave-linge 038,591015.47,Electromenager,175,215,12,75
+2026-01-15,MUS-0098,Guitare acoustique 098,258865.87,Instrument de musique,122,206,22,5
+2026-01-15,MUS-0062,Clavier arrangeur 062,154326.83,Instrument de musique,0,0,7,68
+2026-01-16,SMP-0008,Smartphone Nova 008,1002563.95,Smartphone,35,0,6,76
+2026-01-16,ELM-0019,Fer a repasser 019,1076174.49,Electromenager,157,242,19,77
+2026-01-16,GEN-0027,Groupe silencieux 6kVA 027,3434663.09,Groupe electrogene,91,361,12,46
+2026-01-17,ELM-0077,Climatiseur 077,472920.98,Electromenager,112,198,19,68
+2026-01-17,MUS-0011,Guitare acoustique 011,691882.35,Instrument de musique,247,423,17,78
+2026-01-18,ELM-0072,Micro-ondes 072,467210.67,Electromenager,89,190,13,59
+2026-01-19,ELM-0031,Aspirateur 031,593226.42,Electromenager,226,475,24,54
+2026-01-20,ELM-0061,Lave-linge 061,746061.71,Electromenager,156,103,13,79
+2026-01-20,MUS-0051,Clavier arrangeur 051,435851.08,Instrument de musique,0,0,18,73
+2026-01-20,SMP-0059,Smartphone Ultra 059,1566999.18,Smartphone,151,288,14,56
+2026-01-20,GEN-0065,Groupe 12kVA 065,3620830.17,Groupe electrogene,85,83,10,64
+2026-01-20,MUS-0013,Clavier arrangeur 013,475171.67,Instrument de musique,40,69,9,3
+2026-01-21,ELM-0059,Climatiseur 059,1061598.52,Electromenager,48,168,13,23
+2026-01-22,MUS-0033,Piano numerique 033,701519.39,Instrument de musique,145,302,7,36
+2026-01-22,GEN-0052,Groupe 5kVA 052,2638234.04,Groupe electrogene,150,56,14,42
+2026-01-24,MUS-0051,Clavier arrangeur 051,465319.3,Instrument de musique,0,0,18,62
+2026-01-24,GEN-0068,Groupe 12kVA 068,3663188.13,Groupe electrogene,43,50,15,68
+2026-01-25,GEN-0047,Groupe 12kVA 047,3763556.37,Groupe electrogene,153,436,6,12
+2026-01-25,ELM-0075,Refrigerateur 075,878782.9,Electromenager,59,225,9,74
+2026-01-25,GEN-0045,Groupe silencieux 6kVA 045,1061025.84,Groupe electrogene,43,0,12,49
+2026-01-26,GEN-0084,Groupe silencieux 6kVA 084,4008440.56,Groupe electrogene,188,352,22,27
+2026-01-26,MUS-0014,Violon etude 014,1451403.06,Instrument de musique,63,0,11,59
+2026-01-26,MUS-0075,Clavier arrangeur 075,1338547.45,Instrument de musique,136,131,5,51
+2026-01-26,MUS-0047,Saxophone alto 047,1802156.81,Instrument de musique,41,367,10,14
+2026-01-27,GEN-0047,Groupe 12kVA 047,3517679.16,Groupe electrogene,153,436,6,9
+2026-01-27,MUS-0103,Batterie electronique 103,694289.87,Instrument de musique,242,245,7,69
+2026-01-28,MUS-0099,Guitare acoustique 099,294008.66,Instrument de musique,94,219,21,53
+2026-01-30,GEN-0051,Groupe 12kVA 051,609210.51,Groupe electrogene,248,428,16,29
+2026-01-31,MUS-0082,Clavier arrangeur 082,323588.15,Instrument de musique,10,0,3,51
+2026-01-31,SMP-0067,Smartphone Ultra 067,1587456.88,Smartphone,7,0,17,32
+2026-01-31,SMP-0069,Smartphone Lite 069,266314.0,Smartphone,136,350,19,21
+2026-02-01,GEN-0046,Groupe 5kVA 046,1056868.74,Groupe electrogene,108,179,22,1
+2026-02-01,MUS-0087,Saxophone alto 087,242808.66,Instrument de musique,71,22,21,38
+2026-02-01,MUS-0062,Clavier arrangeur 062,147493.49,Instrument de musique,0,0,7,59
+2026-02-02,GEN-0007,Groupe 8kVA 007,3557830.08,Groupe electrogene,0,166,21,26
+2026-02-03,GEN-0040,Groupe 2kVA 040,3708410.11,Groupe electrogene,177,292,22,14
+2026-02-04,ELM-0089,Mixeur 089,858463.05,Electromenager,0,92,10,8
+2026-02-04,SMP-0106,Smartphone Nova 106,580218.69,Smartphone,188,490,17,53
+2026-02-05,SMP-0065,Smartphone Ultra 065,317651.04,Smartphone,195,482,8,25
+2026-02-05,ELM-0039,Climatiseur 039,407437.19,Electromenager,80,298,24,3
+2026-02-06,GEN-0029,Groupe 2kVA 029,1950227.15,Groupe electrogene,98,0,12,49
+2026-02-06,ELM-0107,Lave-linge 107,331846.84,Electromenager,246,224,3,44
+2026-02-07,SMP-0102,Smartphone Prime 102,1460913.03,Smartphone,0,154,14,28
+2026-02-07,ELM-0030,Refrigerateur 030,770823.8,Electromenager,153,141,12,64
+2026-02-08,GEN-0055,Groupe 5kVA 055,978934.12,Groupe electrogene,107,131,6,27
+2026-02-08,ELM-0002,Fer a repasser 002,711474.09,Electromenager,85,337,22,40
+2026-02-08,MUS-0116,Clavier arrangeur 116,341466.47,Instrument de musique,53,299,16,29
+2026-02-09,GEN-0039,Groupe 8kVA 039,2120666.85,Groupe electrogene,63,315,3,17
+2026-02-10,MUS-0113,Saxophone alto 113,913718.46,Instrument de musique,184,105,12,68
+2026-02-10,SMP-0118,Smartphone Alpha 118,572873.2,Smartphone,153,450,16,54
+2026-02-11,GEN-0040,Groupe 2kVA 040,3583442.29,Groupe electrogene,177,292,22,60
+2026-02-12,GEN-0023,Groupe 2kVA 023,1409385.19,Groupe electrogene,114,161,15,28
+2026-02-12,MUS-0119,Batterie electronique 119,540430.21,Instrument de musique,185,217,3,44
+2026-02-12,SMP-0113,Smartphone Alpha 113,1346941.55,Smartphone,137,288,19,63
+2026-02-13,SMP-0082,Smartphone Prime 082,458214.71,Smartphone,116,98,18,13
+2026-02-14,GEN-0065,Groupe 12kVA 065,3644851.69,Groupe electrogene,85,83,10,67
+2026-02-14,MUS-0121,Clavier arrangeur 121,1352210.93,Instrument de musique,0,106,12,68
+2026-02-15,GEN-0008,Groupe 12kVA 008,4227424.84,Groupe electrogene,136,31,4,48
+2026-02-15,MUS-0067,Piano numerique 067,1458222.01,Instrument de musique,165,408,19,20
+2026-02-16,GEN-0104,Groupe silencieux 6kVA 104,3433264.99,Groupe electrogene,0,177,25,78
+2026-02-16,ELM-0122,Mixeur 122,613778.78,Electromenager,36,0,5,32
+2026-02-16,ELM-0010,Mixeur 010,249967.6,Electromenager,43,101,9,29
+2026-02-16,GEN-0054,Groupe 5kVA 054,3636563.73,Groupe electrogene,311,492,4,14
+2026-02-17,MUS-0022,Batterie electronique 022,655175.61,Instrument de musique,300,424,17,12
+2026-02-17,SMP-0124,Smartphone Alpha 124,97109.48,Smartphone,96,63,22,43
+2026-02-17,ELM-0096,Congelateur 096,742450.11,Electromenager,79,67,6,62
+2026-02-17,ELM-0067,Climatiseur 067,997851.51,Electromenager,38,255,9,45
+2026-02-18,MUS-0105,Guitare acoustique 105,2000645.68,Instrument de musique,173,307,7,78
+2026-02-20,ELM-0110,Refrigerateur 110,419794.2,Electromenager,0,0,19,50
+2026-02-20,ELM-0005,Refrigerateur 005,69639.45,Electromenager,55,252,7,23
+2026-02-20,SMP-0082,Smartphone Prime 082,476658.58,Smartphone,116,98,18,57
+2026-02-20,SMP-0058,Smartphone Edge 058,1596975.26,Smartphone,138,233,17,15
+2026-02-21,ELM-0018,Lave-linge 018,388759.59,Electromenager,75,74,20,59
+2026-02-21,ELM-0084,Aspirateur 084,197160.18,Electromenager,142,47,13,37
+2026-02-21,SMP-0122,Smartphone Nova 122,689552.19,Smartphone,166,236,11,36
+2026-02-21,MUS-0113,Saxophone alto 113,832143.71,Instrument de musique,184,105,12,28
+2026-02-22,MUS-0111,Clavier arrangeur 111,1022201.69,Instrument de musique,38,148,9,53
+2026-02-22,MUS-0084,Saxophone alto 084,1727930.7,Instrument de musique,0,0,9,78
+2026-02-22,MUS-0063,Batterie electronique 063,534428.79,Instrument de musique,12,265,12,18
+2026-02-23,SMP-0090,Smartphone Alpha 090,89556.97,Smartphone,52,231,19,57
+2026-02-23,SMP-0044,Smartphone Prime 044,89001.35,Smartphone,158,143,24,46
+2026-02-24,SMP-0029,Smartphone Lite 029,865136.0,Smartphone,280,473,18,75
+2026-02-24,MUS-0028,Violon etude 028,2064393.33,Instrument de musique,0,160,20,75
+2026-02-24,SMP-0030,Smartphone Ultra 030,963862.42,Smartphone,264,233,19,77
+2026-02-24,GEN-0031,Groupe 2kVA 031,1876842.29,Groupe electrogene,84,189,16,49
+2026-02-24,MUS-0095,Clavier arrangeur 095,879714.59,Instrument de musique,51,136,16,74
+2026-02-25,MUS-0085,Batterie electronique 085,1827609.2,Instrument de musique,78,31,17,60
+2026-02-25,MUS-0080,Piano numerique 080,814160.45,Instrument de musique,44,233,24,44
+2026-02-25,SMP-0095,Smartphone Ultra 095,1531650.92,Smartphone,73,298,21,13
+2026-02-26,SMP-0099,Smartphone Lite 099,951102.54,Smartphone,79,177,4,16
+2026-02-26,SMP-0107,Smartphone Nova 107,1418702.49,Smartphone,191,173,10,62
+2026-02-26,MUS-0028,Violon etude 028,2058394.51,Instrument de musique,0,160,20,38
+2026-02-26,SMP-0094,Smartphone Prime 094,1612483.76,Smartphone,231,244,18,21
+2026-02-27,MUS-0092,Clavier arrangeur 092,1129166.55,Instrument de musique,0,0,23,65
+2026-02-27,ELM-0086,Climatiseur 086,370985.14,Electromenager,63,282,25,55
+2026-03-01,MUS-0110,Guitare acoustique 110,1086570.6,Instrument de musique,100,167,22,42
+2026-03-02,ELM-0068,Climatiseur 068,118832.97,Electromenager,39,68,13,76
+2026-03-02,SMP-0096,Smartphone Alpha 096,840857.97,Smartphone,202,293,19,55
+2026-03-03,GEN-0071,Groupe 5kVA 071,2731322.64,Groupe electrogene,153,187,10,38
+2026-03-04,SMP-0059,Smartphone Ultra 059,1530220.25,Smartphone,151,288,14,2
+2026-03-04,GEN-0062,Groupe 5kVA 062,1308420.35,Groupe electrogene,110,197,10,53
+2026-03-04,MUS-0045,Piano numerique 045,1175803.78,Instrument de musique,70,338,17,15
+2026-03-04,SMP-0005,Smartphone Edge 005,1469932.26,Smartphone,62,200,11,56
+2026-03-05,MUS-0111,Clavier arrangeur 111,1145788.34,Instrument de musique,38,148,9,37
+2026-03-05,ELM-0024,Fer a repasser 024,717365.36,Electromenager,2,33,11,32
+2026-03-05,MUS-0089,Guitare acoustique 089,750389.93,Instrument de musique,0,219,6,8
+2026-03-06,ELM-0068,Climatiseur 068,107078.29,Electromenager,39,68,13,51
+2026-03-06,GEN-0024,Groupe 2kVA 024,1938503.07,Groupe electrogene,0,176,13,10
+2026-03-07,ELM-0109,Micro-ondes 109,224399.37,Electromenager,110,200,7,73
+2026-03-07,MUS-0025,Guitare acoustique 025,1069072.06,Instrument de musique,173,306,17,6
+2026-03-07,SMP-0081,Smartphone Nova 081,1547703.73,Smartphone,28,210,5,16
+2026-03-07,ELM-0079,Mixeur 079,248535.77,Electromenager,74,0,25,75
+2026-03-07,MUS-0053,Piano numerique 053,1499859.42,Instrument de musique,218,158,7,59
+2026-03-08,SMP-0013,Smartphone Lite 013,1400904.87,Smartphone,233,490,4,53
+2026-03-10,MUS-0023,Batterie electronique 023,1141566.24,Instrument de musique,51,133,8,8
+2026-03-11,ELM-0081,Mixeur 081,1063779.32,Electromenager,194,259,21,74
+2026-03-11,ELM-0107,Lave-linge 107,361040.09,Electromenager,246,224,3,53
+2026-03-12,MUS-0087,Saxophone alto 087,241462.83,Instrument de musique,71,22,21,79
+2026-03-12,GEN-0108,Groupe 12kVA 108,3340917.53,Groupe electrogene,22,257,25,35
+2026-03-13,MUS-0020,Clavier arrangeur 020,2202250.75,Instrument de musique,89,54,12,52
+2026-03-13,SMP-0060,Smartphone Prime 060,1449514.9,Smartphone,200,263,5,74
+2026-03-14,ELM-0062,Mixeur 062,751899.84,Electromenager,101,64,14,12
+2026-03-15,SMP-0055,Smartphone Nova 055,979877.41,Smartphone,92,163,20,19
+2026-03-16,GEN-0003,Groupe 5kVA 003,3332423.05,Groupe electrogene,0,108,22,7
+2026-03-16,MUS-0117,Clavier arrangeur 117,1094706.44,Instrument de musique,144,337,6,68
+2026-03-16,GEN-0034,Groupe silencieux 6kVA 034,2181349.75,Groupe electrogene,203,57,23,23
+2026-03-17,ELM-0072,Micro-ondes 072,485458.95,Electromenager,89,190,13,61
+2026-03-17,ELM-0074,Aspirateur 074,504664.63,Electromenager,30,241,19,29
+2026-03-19,ELM-0055,Lave-linge 055,1007466.54,Electromenager,88,325,11,55
+2026-03-19,SMP-0127,Smartphone Prime 127,1401229.48,Smartphone,0,0,5,38
+2026-03-19,ELM-0056,Lave-linge 056,450386.24,Electromenager,131,215,15,25
+2026-03-20,GEN-0056,Groupe silencieux 6kVA 056,503012.01,Groupe electrogene,36,76,17,7
+2026-03-20,GEN-0097,Groupe 5kVA 097,3398385.64,Groupe electrogene,284,464,16,45
