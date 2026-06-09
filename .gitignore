@@ -1,0 +1,15 @@
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+%checkpoint%
+*.ipynb_checkpoints
+
+# --- Environnements virtuels (Python) ---
+.env/
+
+# --- Caches Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+.virtual_documents/
